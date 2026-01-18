@@ -1,4 +1,3 @@
-# energy-bounded-authorship
 # Energy-Bounded Authorship (EBA)
 
 Energy-Bounded Authorship (EBA) is a governance doctrine and control framework
